@@ -1,0 +1,18 @@
+{
+  "name": "kjs-repo",
+  "identifier": "com.kjs.repo",
+  "apps": [
+    {
+      "name": "My App",
+      "bundleIdentifier": "com.kjs.myapp",
+      "developerName": "kjs",
+      "version": "1.0.0",
+      "versionDate": "2026-01-23",
+      "versionDescription": "Initial release",
+      "downloadURL": "REPLACE_THIS_LATER",
+      "localizedDescription": "My first app on SideStore",
+      "iconURL": "REPLACE_THIS_LATER",
+      "size": 0
+    }
+  ]
+}
