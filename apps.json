@@ -3,16 +3,16 @@
   "identifier": "com.kjs.repo",
   "apps": [
     {
-      "name": "My App",
-      "bundleIdentifier": "com.kjs.myapp",
+      "name": "Fitness AI",
+      "bundleIdentifier": "com.fitness.ai",
       "developerName": "kjs",
       "version": "1.0.0",
       "versionDate": "2026-01-23",
       "versionDescription": "Initial release",
-      "downloadURL": "REPLACE_THIS_LATER",
-      "localizedDescription": "My first app on SideStore",
-      "iconURL": "REPLACE_THIS_LATER",
-      "size": 0
+      "downloadURL": "https://github.com/KJVR2912/kjs-repo/releases/download/1.0.0/Fitness_AI_Gym_Workout_Planner_IPAOMTK.com.ipa",
+      "localizedDescription": "Gym Workout Planner for Fitness AI.",
+      "iconURL": "https://raw.githubusercontent.com/KJVR2912/kjs-repo/main/icon.png",
+      "size": 138412032
     }
   ]
 }
