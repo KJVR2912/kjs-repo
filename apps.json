@@ -5,14 +5,24 @@
     {
       "name": "Fitness AI",
       "bundleIdentifier": "com.jakemor.firness-ai",
-      "developerName": "kj",
-      "version": "v1.0.0",
-      "versionDate": "2026-01-21",
-      "versionDescription": "Initial release",
+      "developerName": "kjs",
+      "version": "15.2.0",
+      "versionDate": "2026-01-22",
       "downloadURL": "https://github.com/KJVR2912/kjs-repo/releases/download/1.0.0/Fitness_AI_Gym_Workout_Planner_IPAOMTK.com.ipa",
       "localizedDescription": "Gym Workout Planner for Fitness AI.",
       "iconURL": "https://raw.githubusercontent.com/KJVR2912/kjs-repo/main/icon.png",
-      "size": 138412032
+      "size": 0
+    },
+    {
+      "name": "Duolingo",
+      "bundleIdentifier": "com.duolingo.DuolingoMobile",
+      "developerName": "kjs",
+      "version": "7.100.0",
+      "versionDate": "2026-01-22",
+      "downloadURL": "PASTE_YOUR_DUOLINGO_RELEASE_LINK_HERE",
+      "localizedDescription": "Learn languages for free.",
+      "iconURL": "https://raw.githubusercontent.com/KJVR2912/kjs-repo/main/duo-icon.png",
+      "size": 0
     }
   ]
 }
