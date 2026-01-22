@@ -4,7 +4,7 @@
   "apps": [
     {
       "name": "Fitness AI",
-      "bundleIdentifier": "com.fitness.ai",
+      "bundleIdentifier": "com.jakemor.firness-ai",
       "developerName": "kjs",
       "version": "1.0.0",
       "versionDate": "2026-01-21",
